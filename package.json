@@ -1,0 +1,12 @@
+{
+  "name": "studentmanagement",
+  "version": "1.0.0",
+  "description": "Student Management for Juhi Badminton Academy",
+  "main": "./server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " cd ./server && node server.js "
+  },
+  "author": "",
+  "license": "ISC"
+}
