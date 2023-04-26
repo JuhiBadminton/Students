@@ -8,5 +8,8 @@
     "start": " cd ./server && node server.js "
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node": "16.17.0"
+  }
 }
